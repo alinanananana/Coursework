@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aphorisms</string>
+
+    <string name="section_search">Search</string>
+    <string name="section_random">Random</string>
+    <string name="section_authors">Authors</string>
+    <string name="section_tags">Tags</string>
+    <string name="section_favorite">Favorite</string>
+
+    <string name="quote_generate">Generate</string>
+    <string name="quote_favorite">Favorite</string>
+
+    <string name="page_back">&lt;</string>
+    <string name="page_next">&gt;</string>
+
+    <string name="search_hint">Query</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/section_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/section_search" />
+    <item
+        android:id="@+id/section_random"
+        android:icon="@drawable/ic_question_mark"
+        android:title="@string/section_random" />
+    <item
+        android:id="@+id/section_authors"
+        android:icon="@drawable/ic_person"
+        android:title="@string/section_authors" />
+    <item
+        android:id="@+id/section_tags"
+        android:icon="@drawable/ic_tag"
+        android:title="@string/section_tags" />
+    <item
+        android:id="@+id/section_favorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/section_favorite" />
+</menu>
